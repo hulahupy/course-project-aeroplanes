@@ -1,5 +1,13 @@
+"""
+Aeroplane Tracker - Система отслеживания самолётов
+"""
+
+from src.user_interface import user_interaction
+
+
 def main():
-    print("Hello from kursach2!")
+    """Главная функция программы"""
+    user_interaction()
 
 
 if __name__ == "__main__":

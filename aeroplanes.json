@@ -1,0 +1,52 @@
+[
+  {
+    "icao24": "abc123",
+    "callsign": "AFL123",
+    "origin_country": "Russia",
+    "velocity": 850.5,
+    "geo_altitude": 10500.0,
+    "longitude": 37.6176,
+    "latitude": 55.7558,
+    "on_ground": false
+  },
+  {
+    "icao24": "def456",
+    "callsign": "SVO789",
+    "origin_country": "Russia",
+    "velocity": 820.3,
+    "geo_altitude": 11200.0,
+    "longitude": 30.2642,
+    "latitude": 59.8944,
+    "on_ground": false
+  },
+  {
+    "icao24": "ghi789",
+    "callsign": "LED456",
+    "origin_country": "Russia",
+    "velocity": 780.2,
+    "geo_altitude": 9800.0,
+    "longitude": 30.0,
+    "latitude": 59.0,
+    "on_ground": false
+  },
+  {
+    "icao24": "jkl012",
+    "callsign": "KUF321",
+    "origin_country": "Russia",
+    "velocity": 750.8,
+    "geo_altitude": 8900.0,
+    "longitude": 50.0,
+    "latitude": 53.0,
+    "on_ground": false
+  },
+  {
+    "icao24": "mno345",
+    "callsign": "AER654",
+    "origin_country": "Russia",
+    "velocity": 0.0,
+    "geo_altitude": 0.0,
+    "longitude": 40.0,
+    "latitude": 56.0,
+    "on_ground": true
+  }
+]
