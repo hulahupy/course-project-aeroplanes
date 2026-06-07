@@ -1,0 +1,33 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+*.iml
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Тесты и покрытие
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Файлы с секретами
+.env
+config.py
+
+# Данные (сохраняем структуру, но не файлы)
+data/*.json
+!data/.gitkeep
+
+# Логи
+*.log
+
+# UV
+uv.lock
